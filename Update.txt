@@ -1,0 +1,9 @@
+class Update
+
+{
+	Public Static Void main (String args[])
+	System.out.println("Hell Student");
+	Scanner sc= new Scanner;
+	sc = System.in;
+	System.out.println("sc");
+}
